@@ -1,4 +1,5 @@
-#  Sistema de Inventario — NovaTech Solutions
+#  MISION git flow
+
 
 Proyecto integrador desarrollado como parte de la actividad **"Misión Git Flow"**, cuyo objetivo es demostrar dominio de **Git**, **GitHub**, **Git Flow**, gestión de **releases** y resolución de **conflictos**, simulando el rol de un equipo profesional de desarrollo de software.
 
