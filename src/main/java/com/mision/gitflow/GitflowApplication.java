@@ -8,6 +8,8 @@ public class GitflowApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitflowApplication.class, args);
+
+		System.out.println("iniciando proyecto LOL");
 	}
 
 }
