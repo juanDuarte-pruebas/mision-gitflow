@@ -10,6 +10,7 @@ public class GitflowApplication {
 		SpringApplication.run(GitflowApplication.class, args);
 
 		System.out.println("iniciando proyecto LOL");
+		System.out.println("emmm haciendo la rama hotfix lol");
 	}
 
 }
